@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Introduction to Newschecker
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Check the Documentation
 
 ## Getting Started
 
